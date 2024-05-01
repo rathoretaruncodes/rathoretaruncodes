@@ -9,4 +9,4 @@
 
 ## 📈 GitHub Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=rathoretaruncodes&theme=react&hide_title&line=a020f0&point=a020f0)
+![](https://github-readme-activity-graph.vercel.app/graph?username=rathoretaruncodes&theme=react&hide_title=true&line=a020f0&point=a020f0)
