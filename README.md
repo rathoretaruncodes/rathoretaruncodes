@@ -1,4 +1,4 @@
-### Hi! I'm a Software Developer 👋 ![](https://komarev.com/ghpvc/?username=rathoretaruncodes&color=61dafb)
+### Hi! I'm a Software Developer 👋 ![](https://komarev.com/ghpvc/?username=rathoretaruncodes&color=a020f0)
 
 ## 🛠️ Current Tech Stack
 
@@ -9,4 +9,4 @@
 
 ## 📈 GitHub Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=rathoretaruncodes&theme=react&custom_title=rathoretaruncodes'%20contribution%20graph)
+![](https://github-readme-activity-graph.vercel.app/graph?username=rathoretaruncodes&theme=react&hide_title&line=a020f0&point=a020f0)
