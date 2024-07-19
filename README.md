@@ -3,7 +3,7 @@
 ## 🛠️ Current Tech Stack
 
 - **Languages:** JavaScript, TypeScript, Java
-- **Frameworks and Libraries:** Next.js, React.js, Hono, Node.js, Express.js, Tailwind CSS
+- **Frameworks and Libraries:** Next.js, React.js, Hono, Node.js, Express.js, Socket.io, Tailwind CSS
 - **Databases and ORMs:** PostgreSQL, MongoDB, Prisma, Mongoose
 - **Developer Tools:** Docker, Postman, Git, VSCode
 
