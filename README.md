@@ -1,11 +1,12 @@
-### Hi! I'm a Software Developer 👋 ![](https://komarev.com/ghpvc/?username=rathoretaruncodes&color=a020f0)
+![](https://komarev.com/ghpvc/?username=rathoretaruncodes&color=a020f0)
+### Hi! I'm a Software Engineer
 
 ## 🛠️ Current Tech Stack
 
 - **Languages:** JavaScript, TypeScript, Java
-- **Frameworks and Libraries:** Next.js, React.js, Hono, Node.js, Express.js, Socket.io, Tailwind CSS
+- **Frameworks and Libraries:** Next.js, React.js, Hono, Node.js, Express.js, WS(WebSockets), WebRTC, Tailwind CSS
 - **Databases and ORMs:** PostgreSQL, MongoDB, Prisma, Mongoose
-- **Developer Tools:** Docker, Postman, Git, VSCode
+- **Developer Tools:** Docker, Hoppscotch, Postman, Git, VSCode
 
 ## 📈 GitHub Contribution Graph
 
