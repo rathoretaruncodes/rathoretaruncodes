@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=rathoretaruncodes&color=a020f0)
-### Hi! I'm a Software Engineer
+### Hi! I'm a SOFTWARE ENGINEER
 
 ## 🛠️ Current Tech Stack
 
